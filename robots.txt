@@ -1,4 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://facegrabs.github.io/facegrabs/sitemap.xml
 Sitemap: https://facegrabs.github.io/sitemap.xml
